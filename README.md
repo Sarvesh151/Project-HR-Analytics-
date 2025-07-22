@@ -1,10 +1,10 @@
 # Project Title-     HR-Analytics-Predict Employee Attrition
 
-# Subject -Internship Complition on Data Analytics
-## Duration-          1-Month (jun 23, 2025 to july 23, 2025)
-## Organization- ELEVATE LABS(Bengaluru, Karnataka, India)
-## Author: Sarvesh Kumar
-## Date:  22/07/2025
+#### Subject -Internship Complition on Data Analytics
+#### Duration-          1-Month (jun 23, 2025 to july 23, 2025)
+#### Organization- ELEVATE LABS(Bengaluru, Karnataka, India)
+#### Author: Sarvesh Kumar
+#### Date:  22/07/2025
 
 ## 📝Objective
 The main objective of this project was to analyze HR data and extract meaningful insights to help the organization improve employee retention, optimize recruitment, and enhance workforce performance.
